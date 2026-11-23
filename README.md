@@ -1,4 +1,4 @@
-# Hi, I'm Victor Azahel Mosqueda 👋
+# Hi, I'm Victor Azahel Mosqueda :D
 
 ### Mechatronics Engineering Student | Python Developer | Software Automation
 
